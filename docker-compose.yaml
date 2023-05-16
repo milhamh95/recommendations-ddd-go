@@ -1,0 +1,6 @@
+services:
+  partnership-api:
+    ports:
+      - "3001:3031"
+    build:
+      dockerfile: dockerfile

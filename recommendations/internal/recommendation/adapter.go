@@ -3,8 +3,6 @@ package recommendation
 import (
 	"errors"
 	"net/http"
-
-	"github.com/pkg/errors"
 )
 
 type PartnershipAdaptor struct {
